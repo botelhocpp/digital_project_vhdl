@@ -8,3 +8,4 @@ Assignments and Finite State Machines (FSM):
 - Assignment 2: Moore machine FSM in VHDL of a detector of two consecutive pulses.
 - Assignment 3: Mealy machine FSM in VHDL of a detector of two consecutive pulses.
 - Assignment 4: Project of Various FSM and a rising-edge detector Moore machine FSM in VHDL.
+- Assignment 5: Analysis and Project of FSMs, Digital Circuits and VHDL entities.
